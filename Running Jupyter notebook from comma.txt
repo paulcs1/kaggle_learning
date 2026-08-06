@@ -1,0 +1,3 @@
+Running Jupyter notebook from command line
+
+python -m notebook
